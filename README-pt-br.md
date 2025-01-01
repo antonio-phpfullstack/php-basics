@@ -21,7 +21,7 @@ linguagem de programação tenha em mente que o esquecimento é parte inerente d
 
 Esse projeto foi construído com base no seguinte repositório:
 
-- [Site: https://github.com/antonio-phpfullstack/esqueleto-webserver-apache-php-mysql](https://github.com/antonio-phpfullstack/esqueleto-webserver-apache-php-mysql)
+- [Site: https://github.com/antonio-phpfullstack/skeleton-webserver-apache-php-mysql](https://github.com/antonio-phpfullstack/skeleton-webserver-apache-php-mysql)
 
 Caso não tenha PHP instalado no seu host ou deseja ter o mesmo ambiente do desenvolvedor(eu), faça o clone do 
 repositório acima e coloque o repositório do *PHP - Básico* dentro do diretório www/public
