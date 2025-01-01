@@ -11,7 +11,7 @@ computador. Esse incidente me ensinou algumas coisas:
 - Nunca subestime sua capacidade de esquecer
 
 Esse repositório é o básico da sintaxe. Caso você não conheça PHP e esteja a aprender essa maravilhosa
-linguagem de programação tenha em mente que o esquecimento e parte inerente do aprendizado. Boa sorte!
+linguagem de programação tenha em mente que o esquecimento é parte inerente do aprendizado. Boa sorte!
 
 **Como foi construído esse projeto**
 
